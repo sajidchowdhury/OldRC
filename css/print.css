@@ -1,0 +1,22 @@
+/**
+ * Print stylesheet for supremeip.com
+* @version         1.0
+* @lastmodified    16.02.2020
+*/
+
+@media print {
+    
+
+   
+        /* The first page of a print can be manipulated as well */
+        @page {
+          margin: 2.54cm 2.54cm 2.54cm 2.54cm;
+        }
+      
+
+        textarea{
+          display: none;
+        }
+          
+
+ }

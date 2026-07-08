@@ -1,0 +1,54 @@
+Name                     Ac-No                    sTime              Machine              Exception  
+ABDUL RAHIM              1                        5/13/2021 1:04 PM  rc_center_mc                    
+ABDULLAH AL MAMUN        2                        5/13/2021 1:14 PM  rc_center_mc                    
+ABDUL RAHIM              1                        2/2/2001 6:41 AM   rc_center_mc                    
+ABDUL RAHIM              1                        5/17/2021 6:06 PM  rc_center_mc                    
+ABDUL RAHIM              1                        5/17/2021 6:06 PM  rc_center_mc                    
+ABDUL RAHIM              1                        5/17/2021 6:08 PM  rc_center_mc                    
+ABDUL RAHIM              1                        5/17/2021 6:11 PM  rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:15 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:15 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:15 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:17 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:17 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:17 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:24 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:24 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:24 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:25 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:30 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:37 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:37 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:37 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:37 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:37 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:37 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:40 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:40 AM rc_center_mc                    
+SOHIDUL ISLAM SUMON      2211                     2/27/2022 11:40 AM rc_center_mc                    
+AMJAD RIAZ               111                      2/27/2022 11:45 AM rc_center_mc                    
+AMJAD RIAZ               111                      2/27/2022 11:46 AM rc_center_mc                    
+AMJAD RIAZ               111                      2/27/2022 12:29 PM rc_center_mc                    
+AMJAD RIAZ               111                      2/27/2022 12:30 PM rc_center_mc                    
+ARAFAT HOSSAIN           888                      2/27/2022 12:44 PM rc_center_mc                    
+ARAFAT HOSSAIN           888                      2/27/2022 12:44 PM rc_center_mc                    
+AMJAD RIAZ               111                      2/27/2022 12:45 PM rc_center_mc                    
+ARAFAT HOSSAIN           888                      2/27/2022 12:50 PM rc_center_mc                    
+AMJAD RIAZ               111                      2/27/2022 12:51 PM rc_center_mc                    
+AMJAD RIAZ               111                      2/27/2022 12:54 PM rc_center_mc                    
+ARAFAT HOSSAIN           888                      1/31/2001 9:02 PM  rc_center_mc                    
+ARAFAT HOSSAIN           888                      1/31/2001 9:02 PM  rc_center_mc                    
+AMJAD RIAZ               111                      1/31/2001 9:11 PM  rc_center_mc                    
+AMJAD RIAZ               111                      1/31/2001 9:15 PM  rc_center_mc                    
+AMJAD RIAZ               111                      1/31/2001 9:15 PM  rc_center_mc                    
+AMJAD RIAZ               111                      1/31/2001 9:03 PM  rc_center_mc                    
+AMJAD RIAZ               111                      1/31/2001 9:04 PM  rc_center_mc                    
+AMJAD RIAZ               111                      1/31/2001 9:04 PM  rc_center_mc                    
+AMJAD RIAZ               111                      1/31/2001 9:04 PM  rc_center_mc                    
+AMJAD RIAZ               111                      1/31/2001 9:11 PM  rc_center_mc                    
+ABDUL HAMID RONY         1013                     1/31/2001 10:43 PM rc_center_mc                    
+ABDUL HAMID RONY         1013                     1/31/2001 10:44 PM rc_center_mc                    
+ABDUL HAMID RONY         1013                     1/31/2001 9:11 PM  rc_center_mc                    
+ABDUL HAMID RONY         1013                     1/31/2001 9:27 PM  rc_center_mc                    
+MD. SHAHIN               1015                     2/1/2001 2:01 AM   rc_center_mc                    
+MD. SHAHIN               1015                     2/1/2001 2:02 AM   rc_center_mc                    

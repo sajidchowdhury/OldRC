@@ -1,0 +1,28 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+ErrorDocument 404 '/rc_center/home/Dashboard'
+RewriteRule ^home/([0-9a-zA-Z_\-]+)$ home.php?page_identity=$1 [NC,L]
+RewriteRule ^setup/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ setup.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^notification/([0-9a-zA-Z_\-]+)$ notification.php?related_id=$1 [NC,L]
+RewriteRule ^Quick-Poke/([0-9a-zA-Z_\-]+)$ Quick-Poke.php?related_id=$1 [NC,L]
+RewriteRule ^activity/([0-9a-zA-Z_\-]+)$ activity.php?related_id=$1 [NC,L]
+RewriteRule ^purchase/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ purchase.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^sales/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ sales.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^inventory/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ inventory.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^InventoryActivity/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ inventory_activity.php?page_identity=$1&related_id=$2&invoice_id=$3 [NC,L]
+RewriteRule ^Recipe/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ Recipe.php?page_identity=$1&related_id=$2&product_id=$3 [NC,L]
+RewriteRule ^production/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ production.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^Requisition/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ Requisition.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^Report/([0-9a-zA-Z_\-]+)$ report.php?page_identity=$1 [NC,L]
+RewriteRule ^account/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ account.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^extrapage/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ extrapage.php?page_identity=$1&related_id=$2 [NC,L]
+
+RewriteRule ^hrm/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ hrm.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^login/([0-9a-zA-Z_\-]+) login.php?error=$1 [NC,L]
+
+RewriteRule ^CLIENT_PORTAL/login/([0-9a-zA-Z_\-]+) CLIENT_PORTAL/login.php?error=$1 [NC,L]
+RewriteRule ^CLIENT_PORTAL/home/([0-9a-zA-Z_\-]+)$ CLIENT_PORTAL/home.php?page_identity=$1 [NC,L]
+RewriteRule ^CLIENT_PORTAL/setup/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ CLIENT_PORTAL/setup.php?page_identity=$1&related_id=$2 [NC,L]
+RewriteRule ^CLIENT_PORTAL/edit/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)/([0-9a-zA-Z_\-]+)$ CLIENT_PORTAL/edit.php?page_identity=$1&related_id=$2&invoice_id=$3 [NC,L]
+

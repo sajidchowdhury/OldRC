@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<DATAPACKET Version="2.0">
+<METADATA>
+<FIELDS>
+<FIELD FieldName="DeptId" DisplayLabel="DeptId" FieldType="Integer" FieldClass="TField"/>
+<FIELD FieldName="BadgeNumber" DisplayLabel="BadgeNumber" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="UserName" DisplayLabel="UserName" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="Late" DisplayLabel="Late" FieldType="Float" FieldClass="TField"/>
+<FIELD FieldName="Absent" DisplayLabel="Absent" FieldType="Float" FieldClass="TField"/>
+<FIELD FieldName="NoIn" DisplayLabel="NoIn" FieldType="Float" FieldClass="TField"/>
+<FIELD FieldName="NoOut" DisplayLabel="NoOut" FieldType="Float" FieldClass="TField"/>
+</FIELDS>
+</METADATA>
+<ROWDATA>
+<ROW DeptId="0" BadgeNumber="1" UserName="ABDUL RAHIM" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="2" UserName="ABDULLAH AL MAMUN" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="111" UserName="Abdulhalim" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="888" UserName="ARAFAT HOSSAIN" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1001" UserName="MD. MIR HOSSAIN" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1005" UserName="MD. ISMAIL" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1006" UserName="NURUL ABSAR" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1007" UserName="MD. RASEL" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1008" UserName="MD. SOHEL" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1010" UserName="BABU FORAZI" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1013" UserName="ABDUL HAMID RONY" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1014" UserName="NURUL KORIM" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1015" UserName="MD. SHAHIN" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1016" UserName="MD KAFIL" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="1017" UserName="MD.AKTER" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+<ROW DeptId="0" BadgeNumber="2211" UserName="SOHIDUL ISLAM SUMON" Late="0.00" Absent="0.00" NoIn="0.00" NoOut="0.00"/>
+</ROWDATA>
+</DATAPACKET>

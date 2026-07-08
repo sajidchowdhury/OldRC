@@ -1,0 +1,272 @@
+[20-Jun-2026 12:50:14 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 3365
+[20-Jun-2026 12:50:14 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND A.date <= '2026-06-18'
+        GROUP BY A.product_id' at line 8 in /home3/osudlagb/public_html/erp_rc/generate_report.php:3404
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(3404): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 3404
+[20-Jun-2026 12:50:33 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 3365
+[20-Jun-2026 12:50:33 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND A.date <= '2026-06-18'
+        GROUP BY A.product_id' at line 8 in /home3/osudlagb/public_html/erp_rc/generate_report.php:3404
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(3404): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 3404
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:535: parser error : Specification mandates value for attribute creadit_lim in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 6&quot; code=&quot;0961&quot; shop_name=&quot;Hirangon Electronics&quot; customer_name=&quot;Hira&quot; creadit_lim in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:535: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 6&quot; code=&quot;0961&quot; shop_name=&quot;Hirangon Electronics&quot; customer_name=&quot;Hira&quot; creadit_lim in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:535: parser error : Couldn't find end of Start Tag ROW line 535 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 6&quot; code=&quot;0961&quot; shop_name=&quot;Hirangon Electronics&quot; customer_name=&quot;Hira&quot; creadit_lim in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 11:38:01 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1680: parser error : AttValue: ' expected in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;শ্রীপুর, গাজী in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1680: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;শ্রীপুর, গাজী in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1680: parser error : Couldn't find end of Start Tag ROW line 1680 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;শ্রীপুর, গাজী in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:06 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:737: parser error : Specification mandates value for attribute mobi in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file(): DEB&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;PATUATULI&quot; mobi in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:737: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file(): DEB&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;PATUATULI&quot; mobi in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:737: parser error : Couldn't find end of Start Tag ROW line 737 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file(): DEB&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;PATUATULI&quot; mobi in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[21-Jun-2026 12:07:15 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[21-Jun-2026 12:48:01 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/osudlagb/public_html/erp_rc/generate_report.php:9259
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(9259): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 9259
+[21-Jun-2026 13:09:54 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:507: parser error : Couldn't find end of Start Tag RO line 507 in /home3/osudlagb/public_html/erp_rc/Sales-Entry.php on line 2
+[21-Jun-2026 13:09:54 Asia/Dhaka] PHP Warning:  simplexml_load_file():   &lt;RO in /home3/osudlagb/public_html/erp_rc/Sales-Entry.php on line 2
+[21-Jun-2026 13:09:54 Asia/Dhaka] PHP Warning:  simplexml_load_file():      ^ in /home3/osudlagb/public_html/erp_rc/Sales-Entry.php on line 2
+[21-Jun-2026 13:09:54 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/Sales-Entry.php on line 164
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:795: parser error : Specification mandates value for attribute code in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file():   &lt;ROW id=&quot;791&quot; code in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file():                     ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:795: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file():   &lt;ROW id=&quot;791&quot; code in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file():                     ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:795: parser error : Couldn't find end of Start Tag ROW line 795 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file():   &lt;ROW id=&quot;791&quot; code in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  simplexml_load_file():                     ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[22-Jun-2026 11:32:45 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:337: parser error : AttValue: ' expected in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): name=&quot;BELAL&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;আর  in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:337: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): name=&quot;BELAL&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;আর  in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:337: parser error : Couldn't find end of Start Tag ROW line 337 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): name=&quot;BELAL&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;আর  in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[23-Jun-2026 11:12:24 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[23-Jun-2026 14:31:26 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 3365
+[23-Jun-2026 14:31:26 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND A.date <= '2026-06-23'
+        GROUP BY A.product_id' at line 8 in /home3/osudlagb/public_html/erp_rc/generate_report.php:3404
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(3404): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 3404
+[24-Jun-2026 12:31:14 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home3/osudlagb/public_html/erp_rc/generate_report.php:9259
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(9259): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 9259
+[25-Jun-2026 12:55:09 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6706
+[25-Jun-2026 12:55:09 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')    
+    AND sri2.invoice_date BETWEEN '2026-06-23' AND '2026-06-23'' at line 3 in /home3/osudlagb/public_html/erp_rc/generate_report.php:6732
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(6732): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6732
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:593: parser error : Specification mandates value for attribute crea in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 09&quot; code=&quot;0708&quot; shop_name=&quot;G.M ELOECTRONIC&quot; customer_name=&quot;G.M ELOECTRONIC&quot; crea in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:593: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 09&quot; code=&quot;0708&quot; shop_name=&quot;G.M ELOECTRONIC&quot; customer_name=&quot;G.M ELOECTRONIC&quot; crea in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:593: parser error : Couldn't find end of Start Tag ROW line 593 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file(): 09&quot; code=&quot;0708&quot; shop_name=&quot;G.M ELOECTRONIC&quot; customer_name=&quot;G.M ELOECTRONIC&quot; crea in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[25-Jun-2026 17:33:04 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[25-Jun-2026 20:19:50 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/osudlagb/public_html/erp_rc/function_query.php:2920
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/function_query.php(2920): PDOStatement->execute()
+#1 /home3/osudlagb/public_html/erp_rc/Sales-Invoice-Report.php(72): SETUP::SETUP_CUSTOMER('1542')
+#2 /home3/osudlagb/public_html/erp_rc/report.php(39): include('/home3/osudlagb...')
+#3 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2920
+[25-Jun-2026 20:45:55 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/osudlagb/public_html/erp_rc/function_query.php:2920
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/function_query.php(2920): PDOStatement->execute()
+#1 /home3/osudlagb/public_html/erp_rc/Sales-Invoice-Report.php(72): SETUP::SETUP_CUSTOMER('1625')
+#2 /home3/osudlagb/public_html/erp_rc/report.php(39): include('/home3/osudlagb...')
+#3 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2920
+[25-Jun-2026 20:55:27 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/osudlagb/public_html/erp_rc/function_query.php:2920
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/function_query.php(2920): PDOStatement->execute()
+#1 /home3/osudlagb/public_html/erp_rc/Sales-Invoice-Report.php(72): SETUP::SETUP_CUSTOMER('529')
+#2 /home3/osudlagb/public_html/erp_rc/report.php(39): include('/home3/osudlagb...')
+#3 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2920
+[25-Jun-2026 20:57:17 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/osudlagb/public_html/erp_rc/function_query.php:2920
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/function_query.php(2920): PDOStatement->execute()
+#1 /home3/osudlagb/public_html/erp_rc/Sales-Invoice-Report.php(72): SETUP::SETUP_CUSTOMER('1278')
+#2 /home3/osudlagb/public_html/erp_rc/report.php(39): include('/home3/osudlagb...')
+#3 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2920
+[25-Jun-2026 21:01:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/osudlagb/public_html/erp_rc/function_query.php:2920
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/function_query.php(2920): PDOStatement->execute()
+#1 /home3/osudlagb/public_html/erp_rc/Sales-Invoice-Report.php(72): SETUP::SETUP_CUSTOMER('47')
+#2 /home3/osudlagb/public_html/erp_rc/report.php(39): include('/home3/osudlagb...')
+#3 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2920
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1541: I/O error : Invalid bytes in character encoding in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file(): Bytes: 0xE0 0xA7 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file():  creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;খান মার in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1541: parser error : AttValue: ' expected in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file(): readit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;খান মার in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                               ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1541: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file(): readit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;খান মার in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                               ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1541: parser error : Couldn't find end of Start Tag ROW line 1541 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file(): readit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;খান মার in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                               ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[27-Jun-2026 15:45:48 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[27-Jun-2026 17:45:17 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 9447
+[27-Jun-2026 17:45:17 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  AND A.`invoice_date` BETWEEN '2026-06-27' AND '2026-06-27'   ORDER BY A.`invo' at line 7 in /home3/osudlagb/public_html/erp_rc/generate_report.php:9485
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(9485): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 9485
+[28-Jun-2026 18:13:07 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/osudlagb/public_html/erp_rc/function_query.php:2920
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/function_query.php(2920): PDOStatement->execute()
+#1 /home3/osudlagb/public_html/erp_rc/Sales-Invoice-Report.php(72): SETUP::SETUP_CUSTOMER('152')
+#2 /home3/osudlagb/public_html/erp_rc/report.php(39): include('/home3/osudlagb...')
+#3 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2920
+[28-Jun-2026 19:46:33 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/osudlagb/public_html/erp_rc/function_query.php:2920
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/function_query.php(2920): PDOStatement->execute()
+#1 /home3/osudlagb/public_html/erp_rc/Sales-Invoice-Report.php(72): SETUP::SETUP_CUSTOMER('286')
+#2 /home3/osudlagb/public_html/erp_rc/report.php(39): include('/home3/osudlagb...')
+#3 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2920
+[02-Jul-2026 14:59:53 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 199229728 bytes) in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 8034
+[02-Jul-2026 15:00:00 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 199229728 bytes) in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 8034
+[02-Jul-2026 15:00:33 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 199229728 bytes) in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 8034
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:30: parser error : AttValue: ' expected in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): KOR ELECTRONICS&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;B-B in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:30: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): KOR ELECTRONICS&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;B-B in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:30: parser error : Couldn't find end of Start Tag ROW line 30 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file(): KOR ELECTRONICS&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot; address=&quot;B-B in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[04-Jul-2026 15:09:24 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[05-Jul-2026 12:18:56 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:622: parser error : Couldn't find end of Start Tag ROW line 622 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 12:18:56 Asia/Dhaka] PHP Warning:  simplexml_load_file(): &quot; customer_name=&quot;Confidence&quot; creadit_limit=&quot;50000.00&quot; customer_type=&quot;Wholesale&quot;  in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 12:18:56 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 12:18:56 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[05-Jul-2026 19:10:37 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:593: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 19:10:37 Asia/Dhaka] PHP Warning:  simplexml_load_file(): id=&quot;709&quot; code=&quot;0708&quot; shop_name=&quot;G.M ELOECTRONIC&quot; customer_name=&quot;G.M ELOECTRONIC&quot; in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 19:10:37 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 19:10:37 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:593: parser error : Couldn't find end of Start Tag ROW line 593 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 19:10:37 Asia/Dhaka] PHP Warning:  simplexml_load_file(): id=&quot;709&quot; code=&quot;0708&quot; shop_name=&quot;G.M ELOECTRONIC&quot; customer_name=&quot;G.M ELOECTRONIC&quot; in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 19:10:37 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[05-Jul-2026 19:10:37 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[06-Jul-2026 11:35:10 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6868
+[06-Jul-2026 11:35:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  
+      AND s.invoice_date BETWEEN '2026-07-05' AND '2026-07-05'
+      AND s.g' at line 27 in /home3/osudlagb/public_html/erp_rc/generate_report.php:6939
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(6939): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6939
+[06-Jul-2026 11:35:11 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6868
+[06-Jul-2026 11:35:11 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  
+      AND s.invoice_date BETWEEN '2026-07-05' AND '2026-07-05'
+      AND s.g' at line 27 in /home3/osudlagb/public_html/erp_rc/generate_report.php:6939
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(6939): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6939
+[06-Jul-2026 11:35:17 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6868
+[06-Jul-2026 11:35:17 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  
+      AND s.invoice_date BETWEEN '2026-07-05' AND '2026-07-05'
+      AND s.g' at line 27 in /home3/osudlagb/public_html/erp_rc/generate_report.php:6939
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(6939): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6939
+[06-Jul-2026 11:35:35 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6868
+[06-Jul-2026 11:35:35 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  
+      AND s.invoice_date BETWEEN '2026-07-05' AND '2026-07-05'
+      AND s.g' at line 27 in /home3/osudlagb/public_html/erp_rc/generate_report.php:6939
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(6939): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6939
+[06-Jul-2026 13:05:01 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND sri2.invoice_date BETWEEN '2026-07-06' AND '2026-07-06'' at line 4 in /home3/osudlagb/public_html/erp_rc/generate_report.php:6732
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(6732): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 6732
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:997: parser error : Specification mandates value for attribute division_nam in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file(): le&quot; address=&quot;মহিপাল, ফেনী&quot; mobile=&quot;01787492561&quot; division_nam in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:997: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file(): le&quot; address=&quot;মহিপাল, ফেনী&quot; mobile=&quot;01787492561&quot; division_nam in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:997: parser error : Couldn't find end of Start Tag ROW line 997 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file(): le&quot; address=&quot;মহিপাল, ফেনী&quot; mobile=&quot;01787492561&quot; division_nam in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 11:31:36 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1314: parser error : Specification mandates value for attribute customer_ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file():   &lt;ROW id=&quot;1333&quot; code=&quot;1318&quot; shop_name=&quot;Mezbha Electronics- (N.P)&quot; customer_ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                             ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1314: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file():   &lt;ROW id=&quot;1333&quot; code=&quot;1318&quot; shop_name=&quot;Mezbha Electronics- (N.P)&quot; customer_ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                             ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1314: parser error : Couldn't find end of Start Tag ROW line 1314 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file():   &lt;ROW id=&quot;1333&quot; code=&quot;1318&quot; shop_name=&quot;Mezbha Electronics- (N.P)&quot; customer_ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                             ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[07-Jul-2026 12:13:28 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[07-Jul-2026 20:38:06 Asia/Dhaka] PHP Warning:  implode(): Invalid arguments passed in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 9447
+[07-Jul-2026 20:38:06 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  AND A.`invoice_date` BETWEEN '2026-07-07' AND '2026-07-07'   ORDER BY A.`invo' at line 7 in /home3/osudlagb/public_html/erp_rc/generate_report.php:9485
+Stack trace:
+#0 /home3/osudlagb/public_html/erp_rc/generate_report.php(9485): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/osudlagb/public_html/erp_rc/generate_report.php on line 9485
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1569: parser error : AttValue: ' expected in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file(): &quot; shop_name=&quot;ADHUNIK ELECTRONICS&quot; customer_name=&quot;ADHUNIK&quot; creadit_limit=&quot;50000.0 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1569: parser error : attributes construct error in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file(): &quot; shop_name=&quot;ADHUNIK ELECTRONICS&quot; customer_name=&quot;ADHUNIK&quot; creadit_limit=&quot;50000.0 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1569: parser error : Couldn't find end of Start Tag ROW line 1569 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file(): &quot; shop_name=&quot;ADHUNIK ELECTRONICS&quot; customer_name=&quot;ADHUNIK&quot; creadit_limit=&quot;50000.0 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  simplexml_load_file():                                                                                ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:14 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
+[08-Jul-2026 11:28:26 Asia/Dhaka] PHP Warning:  simplexml_load_file(): xml_customerList.xml:1460: parser error : Couldn't find end of Start Tag ROW line 1460 in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:26 Asia/Dhaka] PHP Warning:  simplexml_load_file():   &lt;ROW id=&quot;1585&quot;  in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:26 Asia/Dhaka] PHP Warning:  simplexml_load_file():                  ^ in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2888
+[08-Jul-2026 11:28:26 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home3/osudlagb/public_html/erp_rc/function_query.php on line 2891
